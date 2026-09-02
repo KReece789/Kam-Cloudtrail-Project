@@ -80,22 +80,22 @@ The investigation itself served as the test: I confirmed I could reliably identi
 * Raw log `grep` output showing the suspicious event
 
 <img width="1656" height="1091" alt="image" src="https://github.com/user-attachments/assets/38b52da7-5f26-4fa1-9d40-465c9fcd52d0" />
+<img width="3122" height="252" alt="image" src="https://github.com/user-attachments/assets/9cec1f5e-7437-44ae-a2fa-211265829f81" />
 
 * Athena query and results identifying the attacker's identity and IP
 
-<img width="3122" height="252" alt="image" src="https://github.com/user-attachments/assets/9cec1f5e-7437-44ae-a2fa-211265829f81" />
+<img width="1431" height="567" alt="image" src="https://github.com/user-attachments/assets/5ae51ac0-95fe-447f-af27-9b8721306480" />
+<img width="1409" height="350" alt="image" src="https://github.com/user-attachments/assets/f43e20d9-9cd8-4a96-a138-91866ef674cc" />
 
 * The IAM user cleanup and Security Group rule reversal
+
+<img width="1366" height="1031" alt="image" src="https://github.com/user-attachments/assets/10190111-3c25-43b7-a5f8-e4bcb0c6c487" />
+
 * The restored website (after remediation)
 
 ## Challenges and Troubleshooting
 
-*Describe any problems you experienced while completing the project. For example:*
-
-* What went wrong (e.g., difficulty parsing raw CloudTrail JSON, Athena table not returning results)
-* How you investigated the problem
-* How you fixed it
-* What you learned from the issue
+* There were no problems with this project.
 
 ## Security Considerations
 
