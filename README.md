@@ -61,7 +61,8 @@ The investigation itself served as the test: I confirmed I could reliably identi
 
 ## Screenshots
 
-*Add screenshots showing:*
+<img width="1638" height="520" alt="security group" src="https://github.com/user-attachments/assets/aa91b61b-7166-4539-b216-a03029356dca" />
+<img width="1469" height="776" alt="EC2 Instance" src="https://github.com/user-attachments/assets/92365b64-9849-4ef1-8254-9ee508785833" />
 
 * AWS resources — EC2 instance and Security Group configuration
 * CloudTrail trail configuration and S3 bucket
@@ -71,8 +72,6 @@ The investigation itself served as the test: I confirmed I could reliably identi
 * Athena query and results identifying the attacker's identity and IP
 * The IAM user cleanup and Security Group rule reversal
 * The restored website (after remediation)
-
-*Add a short description under each screenshot explaining what it shows.*
 
 ## Challenges and Troubleshooting
 
