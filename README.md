@@ -62,9 +62,7 @@ The investigation itself served as the test: I confirmed I could reliably identi
 ## Screenshots
 
 <img width="1910" height="1382" alt="image" src="https://github.com/user-attachments/assets/f327da4a-ed1f-44f4-9f7b-94af3224d9ea" />
-<img width="1908" height="748" alt="image" src="https://github.com/user-attachments/assets/5463aefc-61ea-414f-ae1c-12f93ff82091" />
-
-
+<img width="1908" height="748" alt="image" src="https://github.com/user-attachments/assets/6c4b0fed-653a-4a8d-91c3-13a35190f88a" />
 
 * AWS resources — EC2 instance and Security Group configuration
 
