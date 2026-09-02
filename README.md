@@ -82,6 +82,9 @@ The investigation itself served as the test: I confirmed I could reliably identi
 <img width="1656" height="1091" alt="image" src="https://github.com/user-attachments/assets/38b52da7-5f26-4fa1-9d40-465c9fcd52d0" />
 
 * Athena query and results identifying the attacker's identity and IP
+
+<img width="3122" height="252" alt="image" src="https://github.com/user-attachments/assets/9cec1f5e-7437-44ae-a2fa-211265829f81" />
+
 * The IAM user cleanup and Security Group rule reversal
 * The restored website (after remediation)
 
