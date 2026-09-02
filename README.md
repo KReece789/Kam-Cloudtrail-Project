@@ -66,12 +66,26 @@ The investigation itself served as the test: I confirmed I could reliably identi
 
 * AWS resources — EC2 instance and Security Group configuration
 
-
+<img width="2229" height="911" alt="image" src="https://github.com/user-attachments/assets/1c4753f8-5308-487c-bbc2-997f45f64292" />
+<img width="2475" height="484" alt="image" src="https://github.com/user-attachments/assets/5f6004fe-4af7-4876-9de0-32c735de0770" />
 
 * CloudTrail trail configuration and S3 bucket
+
+<img width="1368" height="1025" alt="image" src="https://github.com/user-attachments/assets/b622d111-2f19-4cd8-8a07-79e979706c04" />
+
 * The defaced website (before remediation)
+
+<img width="1296" height="152" alt="image" src="https://github.com/user-attachments/assets/b12e4c65-7f74-460f-93d3-c85067bc22c8" />
+
+
 * Raw log `grep` output showing the suspicious event
+
+
+
 * AWS CLI `lookup-events` output
+
+
+
 * Athena query and results identifying the attacker's identity and IP
 * The IAM user cleanup and Security Group rule reversal
 * The restored website (after remediation)
