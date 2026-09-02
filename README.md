@@ -77,14 +77,9 @@ The investigation itself served as the test: I confirmed I could reliably identi
 
 <img width="1296" height="152" alt="image" src="https://github.com/user-attachments/assets/b12e4c65-7f74-460f-93d3-c85067bc22c8" />
 
-
 * Raw log `grep` output showing the suspicious event
 
-
-
-* AWS CLI `lookup-events` output
-
-
+<img width="1656" height="1091" alt="image" src="https://github.com/user-attachments/assets/38b52da7-5f26-4fa1-9d40-465c9fcd52d0" />
 
 * Athena query and results identifying the attacker's identity and IP
 * The IAM user cleanup and Security Group rule reversal
